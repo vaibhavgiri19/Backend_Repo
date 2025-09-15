@@ -1,7 +1,7 @@
 const form = document.getElementById('bookForm');
 const bookList = document.getElementById('bookList');
 
-const BASE_URL = 'https://my-book-api.onrender.com';
+const BASE_URL = 'https://backend-repo-2sd4.onrender.com/';
 
 const fetchBooks = async () => {
   const res = await fetch(`${BASE_URL}/api/books`);
