@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1757254965555",
+    "title": "harry potter",
+    "author": "jk rowling",
+    "available": true
+  },
+  {
+    "id": "1757255087338",
+    "title": "Crime and punisment",
+    "author": "fyodor dostoyevsky",
+    "available": true
+  },
+  {
+    "id": "1757255316759",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "available": true
+  }
+]
