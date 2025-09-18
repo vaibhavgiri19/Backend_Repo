@@ -7,10 +7,8 @@ dotenv.config();
 const app = express();
 app.use(express.json());
 
-// ✅ Connect Database
 connectDB();
 
-// ✅ POST - Register User
 app.post('/api/users', (req, res) => {
     const { username, email, password } = req.body;
 
