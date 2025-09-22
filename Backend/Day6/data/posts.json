@@ -1,0 +1,38 @@
+[
+  {
+    "postId": 1758513972697,
+    "content": "Hello world!",
+    "author": "Rittika",
+    "tags": [
+      "fun",
+      "intro"
+    ],
+    "createdAt": "2025-09-22T04:06:12.697Z",
+    "likes": 0,
+    "status": "published"
+  },
+  {
+    "postId": 1758512781665,
+    "content": "Hello world!",
+    "author": "Vaibhav giri",
+    "tags": [
+      "fun",
+      "intro"
+    ],
+    "createdAt": "2025-09-22T03:46:21.665Z",
+    "likes": 0,
+    "status": "published"
+  },
+  {
+    "postId": 1758511877110,
+    "content": "Hello world!",
+    "author": "Vaibhav",
+    "tags": [
+      "fun",
+      "intro"
+    ],
+    "createdAt": "2025-09-22T03:31:17.110Z",
+    "likes": 0,
+    "status": "published"
+  }
+]
